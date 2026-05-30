@@ -1,0 +1,8 @@
+scrapy>=2.11
+itemadapter>=0.8
+jieba>=0.42
+wordcloud>=1.9
+matplotlib>=3.8
+tqdm>=4.66
+qrcode[pil]>=7.4
+requests>=2.31

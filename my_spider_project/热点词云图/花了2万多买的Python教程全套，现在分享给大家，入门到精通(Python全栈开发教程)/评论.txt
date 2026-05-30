@@ -1,0 +1,18 @@
+[3953赞] python 的学习 1.输出函数（print） P10 变量: 3部分组成：标识（id）、类型（type）、值（name）  数据类型：  1.整数类型...
+[2956赞] Chapter1 输出函数、转义符和原字符
+
+chapter2 编码&类型
+
+Chapter 3 函数及符号
+chapter3 函数及符号
+
+chapte...
+[2290赞] 我发现下载的过程让很多小白苦不堪言[笑哭]
+所以：
+1、打开https://www.python.org/downloads/release/python-381/
+2、找到Files那一框，点击第六个，Windows x86-64 executable installer,下载
+3、打开python-3.8.1-amd64，点击Modify，选择前四个（总共有5个），点击Next,再点击install，等待即可
+[336赞] 我做完了这套课程的笔记，笔记里有数据集、课件、代码、及运行结果，还添加了目录、补充知识点、代码注释、纠正了代码报错情况，不用谢。在 Github 的搜索栏中，输入 AccumulateMore/Python 搜索即可，类似通过百度的搜索栏搜索匹配的内容。
+[25赞] 回复 @小王同学在积累 : 怎么搜不到呀
+[24赞] 下载的好慢
+[13赞] 为什么我这页面没有files啊[笑哭]
